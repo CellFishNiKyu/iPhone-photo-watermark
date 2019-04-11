@@ -1,4 +1,8 @@
 ﻿{
+	"IG1 黑色" : "<img src=https://raw.githubusercontent.com/CellFishNiKyu/watermark/watermark/IGtag_B.png>",
+	"IG1 粉色" : "<img src=https://raw.githubusercontent.com/CellFishNiKyu/watermark/watermark/IGtag_P.png>", 
+	"IG2 黑色" : "<img src=https://raw.githubusercontent.com/CellFishNiKyu/watermark/watermark/IG2tag_B.png>", 
+	"IG2 粉色" : "<img src=https://raw.githubusercontent.com/CellFishNiKyu/watermark/watermark/IG2tag_P.png>", 
 	"tag 黑色" : "<img src=https://raw.githubusercontent.com/CellFishNiKyu/watermark/watermark/tag_B.png>",
 	"tag 粉色" : "<img src=https://raw.githubusercontent.com/CellFishNiKyu/watermark/watermark/tag_P.png>", 
 	"iPhone 5s 白色" : "<img src=https://raw.githubusercontent.com/CellFishNiKyu/watermark/watermark/5sW.png>",
