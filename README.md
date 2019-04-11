@@ -2,7 +2,7 @@
 - [x] For those who want to show how much the device there photo shot on </br>
 ~_(but also you can fake it haha)_~ :smirk:
 </br>
-__associate with iOS 12 Shortcut__
+# associate with iOS 12 Shortcut
 </br>
 </br>
 給那些想炫出自己手機照片是由iPhone OO拍出來的人使用
